@@ -1,1 +1,1 @@
-# Amazon-Stock-Prediction
+# Amazon Stock Prediction using FaceBook Prophet
